@@ -1,17 +1,26 @@
-# splitwiseapp
+SplitEase - Simplify Your Shared Expenses 💰
+SplitEase is a smart and intuitive expense-sharing app built using Flutter for the frontend and .NET for the backend. It helps users split bills, track expenses, and settle debts seamlessly—making group expenses hassle-free. Whether you're sharing rent, splitting a dinner bill, or planning a trip, this app ensures that everyone pays their fair share.
 
-A new Flutter project.
+💻 Tech Stack
+  Frontend (Mobile App - Flutter)
+    Flutter (Dart)
+    Provider (State Management)
+    REST API Integration
+  
+  Backend (API - .NET Core)
+    ASP.NET Core Web API
+    Entity Framework Core
+    SQL Server (Database)
 
-## Getting Started
+  Additional Technologies
+    Shared Preferences for Local Storage
 
-This project is a starting point for a Flutter application.
+    🌟 Top Features
+🏠 Create Groups – Manage expenses with friends & family.
+💸 Split Bills Easily – Share costs equally or custom amounts.
+📊 Track Who Owes What – See balances in real-time.
+🔄 Settle Debts Fast – Mark payments & clear dues easily.
+🎨 Dark Mode Support – Use in light or dark theme.
+🔍 Simple & Clean UI – Easy to navigate for everyone.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Splitewise_frontend-" 
+🚀 No more confusion – SplitEase makes splitting expenses simple! 🎉
